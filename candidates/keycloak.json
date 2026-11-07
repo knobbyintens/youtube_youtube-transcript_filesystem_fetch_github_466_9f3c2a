@@ -1,0 +1,17 @@
+{
+  "name": "Keycloak",
+  "slug": "keycloak",
+  "category": "Security",
+  "maturity": "stable",
+  "maintainers": 10,
+  "stars": 26500,
+  "downloads_monthly": 620000,
+  "days_since_last_release": 85,
+  "open_critical_cves": 0,
+  "support_contract": true,
+  "integration_effort": "medium",
+  "team_usage": 4,
+  "has_lts": false,
+  "owner_guild": "security-guild",
+  "summary": "Identity and access management option for external customer-facing portals."
+}

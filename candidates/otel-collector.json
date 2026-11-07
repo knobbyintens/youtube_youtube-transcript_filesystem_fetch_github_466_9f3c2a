@@ -1,0 +1,17 @@
+{
+  "name": "OpenTelemetry Collector",
+  "slug": "otel-collector",
+  "category": "Observability",
+  "maturity": "mature",
+  "maintainers": 12,
+  "stars": 9800,
+  "downloads_monthly": 5600000,
+  "days_since_last_release": 18,
+  "open_critical_cves": 0,
+  "support_contract": true,
+  "integration_effort": "medium",
+  "team_usage": 11,
+  "has_lts": true,
+  "owner_guild": "observability-guild",
+  "summary": "Vendor-neutral telemetry collector used by every product line for traces, metrics and logs."
+}

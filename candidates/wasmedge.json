@@ -1,0 +1,17 @@
+{
+  "name": "WasmEdge",
+  "slug": "wasmedge",
+  "category": "Runtime",
+  "maturity": "experimental",
+  "maintainers": 4,
+  "stars": 8600,
+  "downloads_monthly": 125000,
+  "days_since_last_release": 55,
+  "open_critical_cves": 0,
+  "support_contract": false,
+  "integration_effort": "high",
+  "team_usage": 1,
+  "has_lts": false,
+  "owner_guild": "edge-guild",
+  "summary": "WebAssembly runtime proposed for user-defined edge functions."
+}

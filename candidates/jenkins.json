@@ -1,0 +1,17 @@
+{
+  "name": "Jenkins",
+  "slug": "jenkins",
+  "category": "CI/CD",
+  "maturity": "mature",
+  "maintainers": 2,
+  "stars": 24400,
+  "downloads_monthly": 105000,
+  "days_since_last_release": 410,
+  "open_critical_cves": 3,
+  "support_contract": false,
+  "integration_effort": "medium",
+  "team_usage": 5,
+  "has_lts": false,
+  "owner_guild": "delivery-guild",
+  "summary": "Legacy automation server still running a number of un-migrated build jobs."
+}

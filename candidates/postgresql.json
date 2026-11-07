@@ -1,0 +1,17 @@
+{
+  "name": "PostgreSQL",
+  "slug": "postgresql",
+  "category": "Database",
+  "maturity": "mature",
+  "maintainers": 25,
+  "stars": 18500,
+  "downloads_monthly": 3100000,
+  "days_since_last_release": 28,
+  "open_critical_cves": 0,
+  "support_contract": true,
+  "integration_effort": "medium",
+  "team_usage": 16,
+  "has_lts": true,
+  "owner_guild": "data-platform-guild",
+  "summary": "Standard relational database for transactional services across the estate."
+}

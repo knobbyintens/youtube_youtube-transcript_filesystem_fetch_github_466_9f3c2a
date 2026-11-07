@@ -1,2 +1,3 @@
-# youtube_youtube-transcript_filesystem_fetch_github_466_9f3c2a
-Technology radar research workspace seeded by task preprocess
+# Tech Radar Research Workspace
+
+Candidate technology cards for the Q4 2026 platform review.

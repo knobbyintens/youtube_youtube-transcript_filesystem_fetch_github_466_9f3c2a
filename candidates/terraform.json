@@ -1,0 +1,17 @@
+{
+  "name": "Terraform",
+  "slug": "terraform",
+  "category": "IaC",
+  "maturity": "mature",
+  "maintainers": 18,
+  "stars": 43500,
+  "downloads_monthly": 5200000,
+  "days_since_last_release": 20,
+  "open_critical_cves": 0,
+  "support_contract": true,
+  "integration_effort": "medium",
+  "team_usage": 13,
+  "has_lts": true,
+  "owner_guild": "platform-core-guild",
+  "summary": "Primary infrastructure-as-code tool for cloud account provisioning."
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Grafana Loki",
+  "slug": "grafana-loki",
+  "category": "Observability",
+  "maturity": "stable",
+  "maintainers": 9,
+  "stars": 24500,
+  "downloads_monthly": 910000,
+  "days_since_last_release": 120,
+  "open_critical_cves": 0,
+  "support_contract": true,
+  "integration_effort": "medium",
+  "team_usage": 6,
+  "has_lts": false,
+  "owner_guild": "observability-guild",
+  "summary": "Label-indexed log aggregation alternative under evaluation for cost reduction."
+}

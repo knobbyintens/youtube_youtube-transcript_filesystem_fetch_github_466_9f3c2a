@@ -1,0 +1,17 @@
+{
+  "name": "Istio",
+  "slug": "istio",
+  "category": "Networking",
+  "maturity": "mature",
+  "maintainers": 16,
+  "stars": 36500,
+  "downloads_monthly": 460000,
+  "days_since_last_release": 55,
+  "open_critical_cves": 0,
+  "support_contract": true,
+  "integration_effort": "high",
+  "team_usage": 8,
+  "has_lts": true,
+  "owner_guild": "network-guild",
+  "summary": "Service mesh used for mTLS, traffic shifting and cross-cluster routing."
+}
